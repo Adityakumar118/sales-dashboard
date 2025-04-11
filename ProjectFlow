@@ -1,0 +1,7 @@
+📁 sales-dashboard/
+├── README.md              ← The overview of your project
+├── data/
+│   └── sales_data.csv     ← Sample dataset (or a placeholder)
+├── images/
+│   └── dashboard.png      ← Screenshot of your Power BI dashboard
+├── sales_dashboard.pbix   ← Power BI file (or Google Drive link)
