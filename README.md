@@ -12,7 +12,7 @@ To visualize regional sales performance and key KPIs using Power BI.
 - Product Line B underperformed consistently over 3 quarters.
 
 ## 📈 Dashboard Preview
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](images/Sales Dashboard.png)
 
 ## 📁 Files
 - `sales_dashboard.pbix` – Interactive dashboard file
